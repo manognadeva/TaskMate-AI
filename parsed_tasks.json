@@ -1,0 +1,23 @@
+[
+  {
+    "task": "Call mom",
+    "priority": "low",
+    "estimated_time": "short",
+    "energy_required": "low",
+    "due_date": null
+  },
+  {
+    "task": "Cook dinner",
+    "priority": "low",
+    "estimated_time": "short",
+    "energy_required": "medium",
+    "due_date": null
+  },
+  {
+    "task": "Finish the project tonight",
+    "priority": "high",
+    "estimated_time": "long",
+    "energy_required": "high",
+    "due_date": "tonight"
+  }
+]
